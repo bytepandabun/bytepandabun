@@ -1,5 +1,8 @@
 <!-- Banner -->
-<img src="/Assets/see.gif" alt="Cybersecurity Banner"/>
+<p align="center">
+  <img src="Assets/see.gif" alt="Cybersecurity Banner" width="100%" height="300"/>
+</p>
+
 
 
 
